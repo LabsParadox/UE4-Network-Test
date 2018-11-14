@@ -606,3 +606,650 @@ LogInit: Object subsystem initialized
 [2018.11.14-01.23.51:056][  1]LogAssetRegistry: Asset discovery search completed in 31.6026 seconds
 [2018.11.14-01.23.51:058][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
 [2018.11.14-01.23.51:058][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000050 seconds (updated 0 objects)
+[2018.11.14-01.29.06:237][579]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.14-01.38.27:047][887]LogSlate: Took 0.000275 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.14-01.38.50:421][887]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.11.14-01.39.43:152][399]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.11.14-01.40.11:561][590]LogSlate: Window 'Save Content' being destroyed
+[2018.11.14-01.40.11:647][590]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Saved/GameInfoInstance0704FE1E4CB0FFFEA72E05B39FF3158F.tmp' to '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/Blueprints/AllLevels/GameInfoInstance.uasset'
+[2018.11.14-01.40.11:669][590]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Saved/PlayerInfoF04D2446407E6A01C472D886D87B2E3D.tmp' to '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/Blueprints/AllLevels/PlayerInfo.uasset'
+[2018.11.14-01.40.11:711][590]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Saved/PlayerSaveGameBE4DA2F74A115F6E7A7BD9A5871810D8.tmp' to '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/Blueprints/AllLevels/PlayerSaveGame.uasset'
+[2018.11.14-01.40.43:026][269]LogMetaData: Removing '/Game/Blueprints/Characters/0_base.SKEL_0_base_C' ref from Metadata '/Game/Blueprints/Characters/ThirdPersonCharacter.PackageMetaData'
+[2018.11.14-01.40.43:026][269]LogMetaData: Removing '/Game/Blueprints/Characters/0_base.0_base_C' ref from Metadata '/Game/Blueprints/Characters/ThirdPersonCharacter.PackageMetaData'
+[2018.11.14-01.40.43:062][269]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/0_base" FILE="../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/Blueprints/Characters/0_base.uasset" SILENT=true
+[2018.11.14-01.40.43:118][269]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Saved/0_base38059B5843F73604A4B1A5B2A7828D71.tmp' to '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/Blueprints/Characters/0_base.uasset'
+[2018.11.14-01.40.48:101][844]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Characters/0_base.0_base
+[2018.11.14-01.40.49:016][844]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2018.11.14-01.40.50:670][844]LogSlate: Took 0.010153 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.11.14-01.40.51:072][845]LogSlate: Took 0.013405 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.11.14-01.40.58:058][257]LogSlate: Took 0.113127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2018.11.14-01.41.18:194][414]LogSlate: Window '0_base' being destroyed
+[2018.11.14-01.41.18:196][414]LogSlate: Window '0_base' being destroyed
+[2018.11.14-01.41.28:523][540]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Characters/0_base.0_base
+[2018.11.14-01.50.12:518][585]LogRenderer: Reallocating scene render targets to support 1156x640 Format 10 NumSamples 1 (Frame:1).
+[2018.11.14-01.50.37:737][797]LogTexture: Display: Building textures: T_CharM_Base_M (AutoDXT, 1024X1024)
+[2018.11.14-01.50.37:737][797]LogSkeletalMesh: Building Skeletal Mesh sk_CharM_Base...
+[2018.11.14-01.50.37:739][797]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/InfinityBladeWarriors/Character/CompleteCharacters/sk_CharM_Base.sk_CharM_Base
+[2018.11.14-01.50.38:219][797]LogTexture: Display: Building textures: T_CharM_Base_D (DXT1, 1024X1024)
+[2018.11.14-01.50.38:219][797]LogTexture: Display: Building textures: T_CharM_Base_N (BC5, 1024X1024)
+[2018.11.14-01.50.38:219][797]LogMaterial: Display: Missing cached shader map for material M_CharM_Base, compiling. 
+[2018.11.14-01.50.38:381][797]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.11.14-01.50.38:381][797]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.11.14-01.50.38:381][797]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.11.14-01.50.38:381][797]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.11.14-01.50.38:396][797]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SK_Mannequin_Skeleton, removing AnimBP from actor.
+[2018.11.14-01.50.38:397][797]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SK_Mannequin_Skeleton, removing AnimBP from actor.
+[2018.11.14-01.50.38:398][797]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SK_Mannequin_Skeleton, removing AnimBP from actor.
+[2018.11.14-01.50.38:398][797]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SK_Mannequin_Skeleton, removing AnimBP from actor.
+[2018.11.14-01.50.43:003][ 69]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.14-01.50.43:591][102]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.14-01.51.09:479][850]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.14-01.51.09:711][850]BlueprintLog: New page: Compile 0_base
+[2018.11.14-01.51.10:608][920]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/0_base" FILE="../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/Blueprints/Characters/0_base.uasset" SILENT=true
+[2018.11.14-01.51.10:665][920]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Saved/0_baseA3C1A8494C5F03C7957B169B5534080F.tmp' to '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/Blueprints/Characters/0_base.uasset'
+[2018.11.14-01.51.12:669][145]LogSlate: Window '0_base' being destroyed
+[2018.11.14-01.51.12:672][145]LogSlate: Window '0_base' being destroyed
+[2018.11.14-01.52.12:440][266]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Characters/Forge1.Forge1
+[2018.11.14-01.52.14:881][458]LogSlate: Window 'Forge1*' being destroyed
+[2018.11.14-01.52.14:884][458]LogSlate: Window 'Forge1*' being destroyed
+[2018.11.14-01.52.30:970][646]LogMetaData: Removing '/Game/Blueprints/Characters/Frosty.SKEL_Frosty_C' ref from Metadata '/Game/Blueprints/Characters/Forge1.PackageMetaData'
+[2018.11.14-01.52.30:970][646]LogMetaData: Removing '/Game/Blueprints/Characters/Frosty.Frosty_C' ref from Metadata '/Game/Blueprints/Characters/Forge1.PackageMetaData'
+[2018.11.14-01.52.31:008][646]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/Frosty" FILE="../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/Blueprints/Characters/Frosty.uasset" SILENT=true
+[2018.11.14-01.52.31:032][646]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Saved/Frosty96C311184A389EA109C1B4A8A7179B91.tmp' to '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/Blueprints/Characters/Frosty.uasset'
+[2018.11.14-01.52.40:734][746]LogMetaData: Removing '/Game/Blueprints/Characters/Natural.SKEL_Natural_C' ref from Metadata '/Game/Blueprints/Characters/Forge2.PackageMetaData'
+[2018.11.14-01.52.40:734][746]LogMetaData: Removing '/Game/Blueprints/Characters/Natural.Natural_C' ref from Metadata '/Game/Blueprints/Characters/Forge2.PackageMetaData'
+[2018.11.14-01.52.40:774][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/Natural" FILE="../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/Blueprints/Characters/Natural.uasset" SILENT=true
+[2018.11.14-01.52.40:798][746]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Saved/Natural091098074E6763A55E9DDEBCCE879C18.tmp' to '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/Blueprints/Characters/Natural.uasset'
+[2018.11.14-01.53.06:204][702]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/tusk" FILE="../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/Blueprints/Characters/tusk.uasset" SILENT=true
+[2018.11.14-01.53.06:842][702]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.635 s
+[2018.11.14-01.53.06:842][702]LogOutputDevice: Error: === Handled ensure: ===
+[2018.11.14-01.53.06:842][702]LogOutputDevice: Error: 
+[2018.11.14-01.53.06:842][702]LogOutputDevice: Error: Ensure condition failed: !SeenPaths.Contains(NewPath) [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\Misc\RedirectCollector.cpp] [Line: 219]
+[2018.11.14-01.53.06:843][702]LogOutputDevice: Error: Found circular redirect from /Game/Blueprints/Characters/Tusk.Tusk_C to /Game/Blueprints/Characters/Tusk.Tusk_C! Returning None instead
+[2018.11.14-01.53.06:843][702]LogOutputDevice: Error: Stack: 
+[2018.11.14-01.53.06:843][702]LogOutputDevice: Error: [Callstack] 0x00007ffb85fb71f6 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.14-01.53.06:843][702]LogOutputDevice: Error: [Callstack] 0x00007ffb85cf0c92 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.14-01.53.06:843][702]LogOutputDevice: Error: [Callstack] 0x00007ffb85d0b356 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.14-01.53.06:843][702]LogOutputDevice: Error: [Callstack] 0x00007ffb87602ca4 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.14-01.53.06:844][702]LogOutputDevice: Error: [Callstack] 0x00007ffb8793d893 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.14-01.53.06:844][702]LogOutputDevice: Error: [Callstack] 0x00007ffb8794df57 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.14-01.53.06:844][702]LogOutputDevice: Error: [Callstack] 0x00007ffb876467f7 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.14-01.53.06:844][702]LogOutputDevice: Error: [Callstack] 0x00007ffb8794d963 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.14-01.53.06:844][702]LogOutputDevice: Error: [Callstack] 0x00007ffb87762f39 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.14-01.53.06:844][702]LogOutputDevice: Error: [Callstack] 0x00007ffb878e5076 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.14-01.53.06:844][702]LogOutputDevice: Error: [Callstack] 0x00007ffb878e5295 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.14-01.53.06:845][702]LogOutputDevice: Error: [Callstack] 0x00007ffb8776572f UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.14-01.53.06:845][702]LogOutputDevice: Error: [Callstack] 0x00007ffb87762c33 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.14-01.53.06:845][702]LogOutputDevice: Error: [Callstack] 0x00007ffb878e5076 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.14-01.53.06:845][702]LogOutputDevice: Error: [Callstack] 0x00007ffb87872cc1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.14-01.53.06:845][702]LogOutputDevice: Error: [Callstack] 0x00007ffb878e5295 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.14-01.53.06:845][702]LogOutputDevice: Error: [Callstack] 0x00007ffb8776572f UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.14-01.53.06:845][702]LogOutputDevice: Error: [Callstack] 0x00007ffb87874a42 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.14-01.53.06:846][702]LogOutputDevice: Error: [Callstack] 0x00007ffb8787134b UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.14-01.53.06:846][702]LogOutputDevice: Error: [Callstack] 0x00007ffb79826bfa UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.14-01.53.06:846][702]LogOutputDevice: Error: [Callstack] 0x00007ffb79826542 UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.14-01.53.06:846][702]LogOutputDevice: Error: [Callstack] 0x00007ffb878bf06d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.14-01.53.06:846][702]LogOutputDevice: Error: [Callstack] 0x00007ffb878e9138 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.14-01.53.06:846][702]LogOutputDevice: Error: [Callstack] 0x00007ffb878cea65 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.14-01.53.06:846][702]LogOutputDevice: Error: [Callstack] 0x00007ffb7779ecd6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.14-01.53.06:847][702]LogOutputDevice: Error: [Callstack] 0x00007ffb7779f640 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.14-01.53.06:847][702]LogOutputDevice: Error: [Callstack] 0x00007ffb777e2e13 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.14-01.53.06:847][702]LogOutputDevice: Error: [Callstack] 0x00007ffb777df60b UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.14-01.53.06:847][702]LogOutputDevice: Error: [Callstack] 0x00007ffb780bda43 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.14-01.53.06:847][702]LogOutputDevice: Error: [Callstack] 0x00007ffb77b9ab44 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.14-01.53.06:847][702]LogOutputDevice: Error: [Callstack] 0x00007ffb77b99441 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.14-01.53.06:847][702]LogOutputDevice: Error: [Callstack] 0x00007ffb77bb0878 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.14-01.53.06:847][702]LogOutputDevice: Error: [Callstack] 0x00007ffb84fcd07a UE4Editor-AssetTools.dll!UnknownFunction []
+[2018.11.14-01.53.06:848][702]LogOutputDevice: Error: [Callstack] 0x00007ffb84f95d0d UE4Editor-AssetTools.dll!UnknownFunction []
+[2018.11.14-01.53.06:848][702]LogOutputDevice: Error: [Callstack] 0x00007ffb84fdb3b7 UE4Editor-AssetTools.dll!UnknownFunction []
+[2018.11.14-01.53.06:848][702]LogOutputDevice: Error: [Callstack] 0x00007ffb67b005c5 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.11.14-01.53.06:848][702]LogOutputDevice: Error: [Callstack] 0x00007ffb67b6c64d UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.11.14-01.53.06:848][702]LogOutputDevice: Error: [Callstack] 0x00007ffb67bbd8e4 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.11.14-01.53.06:848][702]LogOutputDevice: Error: [Callstack] 0x00007ffb67ada23d UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.11.14-01.53.06:848][702]LogOutputDevice: Error: [Callstack] 0x00007ffb67abdcb9 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.11.14-01.53.06:849][702]LogOutputDevice: Error: [Callstack] 0x00007ffb790b64b2 UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.14-01.53.06:849][702]LogOutputDevice: Error: [Callstack] 0x00007ffb79089619 UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.14-01.53.06:849][702]LogOutputDevice: Error: [Callstack] 0x00007ffb79096081 UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.14-01.53.06:849][702]LogOutputDevice: Error: [Callstack] 0x00007ffb7909785b UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.14-01.53.06:849][702]LogOutputDevice: Error: [Callstack] 0x00007ffb79014d5d UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.14-01.53.06:849][702]LogOutputDevice: Error: [Callstack] 0x00007ffb78e070ac UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.14-01.53.06:849][702]LogOutputDevice: Error: [Callstack] 0x00007ffb78e8606c UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.14-01.53.06:850][702]LogOutputDevice: Error: [Callstack] 0x00007ffb78e79846 UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.14-01.53.06:850][702]LogOutputDevice: Error: [Callstack] 0x00007ffb97b1ce45 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.14-01.53.06:850][702]LogOutputDevice: Error: [Callstack] 0x00007ffb97b10270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.14-01.53.06:850][702]LogOutputDevice: Error: [Callstack] 0x00007ffb97b1f4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.14-01.53.06:850][702]LogOutputDevice: Error: [Callstack] 0x00007ffb97b0c209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.14-01.53.06:850][702]LogOutputDevice: Error: [Callstack] 0x00007ffbc76ebc50 USER32.dll!UnknownFunction []
+[2018.11.14-01.53.06:850][702]LogOutputDevice: Error: [Callstack] 0x00007ffbc76eb5cf USER32.dll!UnknownFunction []
+[2018.11.14-01.53.06:850][702]LogOutputDevice: Error: [Callstack] 0x00007ffb97b20646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.14-01.53.06:851][702]LogOutputDevice: Error: [Callstack] 0x00007ff7e70554e5 UE4Editor.exe!UnknownFunction []
+[2018.11.14-01.53.06:851][702]LogOutputDevice: Error: [Callstack] 0x00007ff7e7065b3c UE4Editor.exe!UnknownFunction []
+[2018.11.14-01.53.06:851][702]LogOutputDevice: Error: [Callstack] 0x00007ff7e7065bba UE4Editor.exe!UnknownFunction []
+[2018.11.14-01.53.06:851][702]LogOutputDevice: Error: [Callstack] 0x00007ff7e7073dac UE4Editor.exe!UnknownFunction []
+[2018.11.14-01.53.06:851][702]LogOutputDevice: Error: [Callstack] 0x00007ff7e7075aaa UE4Editor.exe!UnknownFunction []
+[2018.11.14-01.53.06:851][702]LogOutputDevice: Error: [Callstack] 0x00007ffbc7582784 KERNEL32.DLL!UnknownFunction []
+[2018.11.14-01.53.06:851][702]LogOutputDevice: Error: [Callstack] 0x00007ffbc7880c31 ntdll.dll!UnknownFunction []
+[2018.11.14-01.53.06:852][702]LogOutputDevice: Error: 
+[2018.11.14-01.53.06:860][702]LogStats:                SubmitErrorReport -  0.000 s
+[2018.11.14-01.53.12:664][702]LogStats:                    SendNewReport -  5.804 s
+[2018.11.14-01.53.12:664][702]LogStats:             FDebug::EnsureFailed -  6.457 s
+[2018.11.14-01.53.12:696][702]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Saved/tuskE94B38B047E1416321AC548A646D2302.tmp' to '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/Blueprints/Characters/tusk.uasset'
+[2018.11.14-01.53.31:342][138]LogSlate: Window 'Save Content' being destroyed
+[2018.11.14-01.53.31:400][138]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Saved/Basbarous54506F7747DB7F074D9BE2B3BE82B371.tmp' to '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/Blueprints/Characters/Basbarous.uasset'
+[2018.11.14-01.53.31:421][138]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/Forge" FILE="../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/Blueprints/Characters/Forge.uasset" SILENT=true
+[2018.11.14-01.53.31:446][138]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Saved/Forge5ABDBB2D4D2154BEB04FE0B99F9791F4.tmp' to '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/Blueprints/Characters/Forge.uasset'
+[2018.11.14-01.53.31:465][138]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/Pit" FILE="../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/Blueprints/Characters/Pit.uasset" SILENT=true
+[2018.11.14-01.53.31:492][138]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Saved/PitB3C05D0E42ACB83090549CBF95C0D335.tmp' to '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/Blueprints/Characters/Pit.uasset'
+[2018.11.14-01.53.31:510][138]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/Robo" FILE="../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/Blueprints/Characters/Robo.uasset" SILENT=true
+[2018.11.14-01.53.31:537][138]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Saved/Robo88C5C1EC481E8D4E48F46B8492E67111.tmp' to '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/Blueprints/Characters/Robo.uasset'
+[2018.11.14-01.53.31:556][138]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/Warrior" FILE="../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/Blueprints/Characters/Warrior.uasset" SILENT=true
+[2018.11.14-01.53.31:585][138]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Saved/Warrior1F5FBE4A4DF5C18F8EDFABA06221CD92.tmp' to '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/Blueprints/Characters/Warrior.uasset'
+[2018.11.14-01.53.44:046][995]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.11.14-01.53.56:487][ 34]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.11.14-01.54.23:787][287]LogMetaData: Removing '/Game/Blueprints/Lobby/LobbyGM.SKEL_LobbyGM_C' ref from Metadata '/Game/Blueprints/Lobby/GameplayGM.PackageMetaData'
+[2018.11.14-01.54.23:787][287]LogMetaData: Removing '/Game/Blueprints/Lobby/LobbyGM.LobbyGM_C' ref from Metadata '/Game/Blueprints/Lobby/GameplayGM.PackageMetaData'
+[2018.11.14-01.54.23:806][287]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Lobby/LobbyGM" FILE="../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/Blueprints/Lobby/LobbyGM.uasset" SILENT=true
+[2018.11.14-01.54.23:839][287]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Saved/LobbyGM2630D5FA4CE6179CECA814BA6569E459.tmp' to '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/Blueprints/Lobby/LobbyGM.uasset'
+[2018.11.14-01.54.32:701][320]LogMetaData: Removing '/Game/Blueprints/Lobby/LobbyPC.SKEL_LobbyPC_C' ref from Metadata '/Game/Blueprints/Lobby/GameplayPC.PackageMetaData'
+[2018.11.14-01.54.32:701][320]LogMetaData: Removing '/Game/Blueprints/Lobby/LobbyPC.LobbyPC_C' ref from Metadata '/Game/Blueprints/Lobby/GameplayPC.PackageMetaData'
+[2018.11.14-01.54.32:721][320]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Lobby/LobbyPC" FILE="../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/Blueprints/Lobby/LobbyPC.uasset" SILENT=true
+[2018.11.14-01.54.32:734][320]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Saved/LobbyPC4F16725549F203E6FC759ABCC911764F.tmp' to '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/Blueprints/Lobby/LobbyPC.uasset'
+[2018.11.14-01.55.25:646][971]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.11.14-01.55.26:961][112]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.11.14-01.55.39:853][441]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor)
+[2018.11.14-01.55.50:873][ 27]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.14-01.56.00:375][135]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.11.14-01.56.01:832][302]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall10)
+[2018.11.14-01.56.02:856][418]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.11.14-01.56.11:776][479]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.11.14-01.56.12:473][560]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2018.11.14-01.56.14:360][753]Cmd: DELETE
+[2018.11.14-01.56.14:361][753]Cmd: ACTOR DELETE
+[2018.11.14-01.56.14:391][753]LogEditorActor: Deleted Actor: ThirdPersonCharacter_C
+[2018.11.14-01.56.14:445][753]LogEditorActor: Deleted 1 Actors (0.073 secs)
+[2018.11.14-01.56.20:029][422]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (NetworkPlayerStart)
+[2018.11.14-01.56.24:661][972]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.14-01.56.41:667][997]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.11.14-01.56.42:728][121]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.11.14-01.56.44:209][294]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.11.14-01.56.45:372][432]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.11.14-01.56.47:478][680]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.11.14-01.56.48:898][848]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.11.14-01.56.51:154][114]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.11.14-01.56.51:716][174]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (NetworkPlayerStart3)
+[2018.11.14-01.56.55:368][607]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.11.14-01.57.00:646][237]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.11.14-01.57.14:608][654]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.11.14-01.57.16:141][829]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (NetworkPlayerStart4)
+[2018.11.14-01.57.17:436][980]Cmd: DELETE
+[2018.11.14-01.57.17:437][980]Cmd: ACTOR DELETE
+[2018.11.14-01.57.17:439][980]LogEditorActor: Deleted Actor: PlayerStart
+[2018.11.14-01.57.17:462][980]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2018.11.14-01.57.18:699][128]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.11.14-01.57.19:169][177]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.11.14-01.57.19:521][217]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (NetworkPlayerStart3)
+[2018.11.14-01.57.21:005][391]Cmd: DELETE
+[2018.11.14-01.57.21:005][391]Cmd: ACTOR DELETE
+[2018.11.14-01.57.21:008][391]LogEditorActor: Deleted Actor: PlayerStart
+[2018.11.14-01.57.21:031][391]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2018.11.14-01.57.22:159][526]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.11.14-01.57.23:028][623]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (NetworkPlayerStart2)
+[2018.11.14-01.57.23:456][670]Cmd: DELETE
+[2018.11.14-01.57.23:456][670]Cmd: ACTOR DELETE
+[2018.11.14-01.57.23:458][670]LogEditorActor: Deleted Actor: PlayerStart
+[2018.11.14-01.57.23:482][670]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2018.11.14-01.57.24:070][740]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (NetworkPlayerStart)
+[2018.11.14-01.57.26:437][ 18]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.11.14-01.57.27:078][ 93]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.11.14-01.57.27:790][174]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.11.14-01.57.28:512][259]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.11.14-01.57.36:137][170]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.11.14-01.57.40:429][681]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (NetworkPlayerStart2)
+[2018.11.14-01.57.42:046][871]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.11.14-01.57.42:662][942]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.11.14-01.57.56:962][631]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2018.11.14-01.58.09:466][212]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.14-01.58.24:254][889]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.11.14-01.58.24:254][889]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.11.14-01.58.24:254][889]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.11.14-01.58.38:717][609]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.14-01.58.57:582][452]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.11.14-01.58.58:739][581]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.14-01.59.00:996][849]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.14-01.59.28:445][849]LogSlate: Window 'Save Level As' being destroyed
+[2018.11.14-01.59.28:585][849]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.14-01.59.29:057][849]LogAIModule: Creating AISystem for world Arena_01
+[2018.11.14-01.59.29:073][849]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Arena_01" FILE="../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/Maps/Arena_01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.14-01.59.29:279][849]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Saved/Arena_012530CAFF4C29AA5910E78C8DC6050F8D.tmp' to '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/Maps/Arena_01.umap'
+[2018.11.14-01.59.29:348][849]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Arena_01_BuiltData" FILE="../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/Maps/Arena_01_BuiltData.uasset" SILENT=true
+[2018.11.14-01.59.29:468][849]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Saved/Arena_01_BuiltData7556C5A84964A75DF8BF10B8A300C321.tmp' to '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/Maps/Arena_01_BuiltData.uasset'
+[2018.11.14-01.59.29:478][849]LogFileHelpers: Saving map 'Arena_01' took 1.029
+[2018.11.14-01.59.29:480][849]Cmd: MAP LOAD FILE="../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/Maps/Arena_01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.14-01.59.29:489][849]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.14-01.59.29:493][849]LightingResults: New page: Lighting Build
+[2018.11.14-01.59.29:495][849]LoadErrors: New page: Loading map: Arena_01.umap
+[2018.11.14-01.59.29:497][849]MapCheck: New page: Map Check
+[2018.11.14-01.59.29:498][849]LightingResults: New page: Lighting Build
+[2018.11.14-01.59.29:611][849]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.14-01.59.29:700][849]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.14-01.59.29:820][849]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 120.005ms to complete.
+[2018.11.14-01.59.29:820][849]LogFileHelpers: Loading map 'Arena_01' took 0.342
+[2018.11.14-01.59.32:020][ 95]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor)
+[2018.11.14-01.59.33:848][302]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.14-01.59.36:287][591]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.11.14-01.59.38:064][793]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.14-01.59.40:728][109]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall7)
+[2018.11.14-01.59.41:214][161]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2018.11.14-02.00.00:157][ 71]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.14-02.00.03:953][505]LogSlate: Window 'Color Picker' being destroyed
+[2018.11.14-02.00.07:856][650]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.14-02.00.09:447][805]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.14-02.00.15:305][805]LogSlate: Window 'Save Level As' being destroyed
+[2018.11.14-02.00.15:308][805]LogSlate: FSceneViewport::OnFocusLost() reason 3
+[2018.11.14-02.00.15:844][805]LogAIModule: Creating AISystem for world Arena_02
+[2018.11.14-02.00.15:859][805]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Arena_02" FILE="../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/Maps/Arena_02.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.14-02.00.16:059][805]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Saved/Arena_0216BAFCC84BBE1339804E1DA1393CD7E8.tmp' to '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/Maps/Arena_02.umap'
+[2018.11.14-02.00.16:070][805]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Arena_02_BuiltData" FILE="../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/Maps/Arena_02_BuiltData.uasset" SILENT=true
+[2018.11.14-02.00.16:188][805]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Saved/Arena_02_BuiltDataDDFF2A054FC206EC5B5CF29CF54CDB35.tmp' to '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/Maps/Arena_02_BuiltData.uasset'
+[2018.11.14-02.00.16:195][805]LogFileHelpers: Saving map 'Arena_02' took 0.885
+[2018.11.14-02.00.16:197][805]Cmd: MAP LOAD FILE="../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/Maps/Arena_02.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.14-02.00.16:206][805]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.14-02.00.16:210][805]LightingResults: New page: Lighting Build
+[2018.11.14-02.00.16:211][805]LoadErrors: New page: Loading map: Arena_02.umap
+[2018.11.14-02.00.16:212][805]MapCheck: New page: Map Check
+[2018.11.14-02.00.16:212][805]LightingResults: New page: Lighting Build
+[2018.11.14-02.00.16:321][805]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.14-02.00.16:366][805]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.14-02.00.16:488][805]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 121.872ms to complete.
+[2018.11.14-02.00.16:488][805]LogFileHelpers: Loading map 'Arena_02' took 0.293
+[2018.11.14-02.00.17:323][895]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.14-02.00.29:309][330]LogAssetEditorManager: Opening Asset editor for MapBuildDataRegistry /Game/Maps/Arena_01_BuiltData.Arena_01_BuiltData
+[2018.11.14-02.00.32:365][692]LogSlate: Window 'Arena_01_BuiltData - Generic Asset Editor' being destroyed
+[2018.11.14-02.00.32:368][692]LogSlate: Window 'Arena_01_BuiltData - Generic Asset Editor' being destroyed
+[2018.11.14-02.00.33:154][785]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.14-02.00.36:385][987]LogSlate: Window 'Save Content' being destroyed
+[2018.11.14-02.00.36:399][987]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.14-02.00.36:418][987]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Saved/GameplayGME480CDDA43C893126C6706BCE076FA91.tmp' to '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/Blueprints/Gameplay/GameplayGM.uasset'
+[2018.11.14-02.00.36:438][987]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Saved/GameplayPC3133BC0743D3593615B40E90AA8FEABF.tmp' to '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/Blueprints/Gameplay/GameplayPC.uasset'
+[2018.11.14-02.00.39:204][318]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.14-02.01.10:491][765]LogSlate: Window 'New Level' being destroyed
+[2018.11.14-02.01.10:495][765]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.14-02.01.10:509][765]LightingResults: New page: Lighting Build
+[2018.11.14-02.01.10:510][765]LoadErrors: New page: Loading map: Template_Default.umap
+[2018.11.14-02.01.10:511][765]MapCheck: New page: Map Check
+[2018.11.14-02.01.10:511][765]LightingResults: New page: Lighting Build
+[2018.11.14-02.01.10:563][765]LogAIModule: Creating AISystem for world Untitled_1
+[2018.11.14-02.01.10:640][765]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.14-02.01.10:671][765]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.14-02.01.10:794][765]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 121.789ms to complete.
+[2018.11.14-02.01.10:794][765]LogFileHelpers: Loading map 'Template_Default' took 0.300
+[2018.11.14-02.01.17:103][365]LogSlate: Window 'New Level' being destroyed
+[2018.11.14-02.01.17:107][365]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/VR-Basic.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.14-02.01.17:121][365]LightingResults: New page: Lighting Build
+[2018.11.14-02.01.17:121][365]LoadErrors: New page: Loading map: VR-Basic.umap
+[2018.11.14-02.01.17:122][365]MapCheck: New page: Map Check
+[2018.11.14-02.01.17:122][365]LightingResults: New page: Lighting Build
+[2018.11.14-02.01.18:236][365]LogAIModule: Creating AISystem for world Untitled_2
+[2018.11.14-02.01.18:336][365]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.14-02.01.18:386][365]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.14-02.01.18:511][365]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 125.553ms to complete.
+[2018.11.14-02.01.18:512][365]LogFileHelpers: Loading map 'VR-Basic' took 1.406
+[2018.11.14-02.01.26:993][121]LogSlate: Window 'Save Level As' being destroyed
+[2018.11.14-02.01.27:139][121]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lobby" FILE="../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/Maps/Lobby.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.14-02.01.27:205][121]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Saved/Lobby4088E44944C2D39E9738BD816153E0C4.tmp' to '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/Maps/Lobby.umap'
+[2018.11.14-02.01.27:242][121]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lobby_BuiltData" FILE="../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/Maps/Lobby_BuiltData.uasset" SILENT=true
+[2018.11.14-02.01.27:249][121]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Saved/Lobby_BuiltData2FCDC84943ECEA48F69EC0BA2A95B373.tmp' to '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/Maps/Lobby_BuiltData.uasset'
+[2018.11.14-02.01.27:255][121]LogFileHelpers: Saving map 'Lobby' took 0.258
+[2018.11.14-02.01.27:257][121]Cmd: MAP LOAD FILE="../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/Maps/Lobby.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.14-02.01.27:270][121]LightingResults: New page: Lighting Build
+[2018.11.14-02.01.27:270][121]LoadErrors: New page: Loading map: Lobby.umap
+[2018.11.14-02.01.27:271][121]MapCheck: New page: Map Check
+[2018.11.14-02.01.27:272][121]LightingResults: New page: Lighting Build
+[2018.11.14-02.01.27:315][121]LogAIModule: Creating AISystem for world Lobby
+[2018.11.14-02.01.27:411][121]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.14-02.01.27:453][121]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.14-02.01.27:581][121]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 127.293ms to complete.
+[2018.11.14-02.01.27:581][121]LogFileHelpers: Loading map 'Lobby' took 0.325
+[2018.11.14-02.01.31:534][443]LogSlate: Window 'New Level' being destroyed
+[2018.11.14-02.01.31:537][443]LightingResults: New page: Lighting Build
+[2018.11.14-02.01.31:538][443]MapCheck: New page: Map Check
+[2018.11.14-02.01.31:538][443]LightingResults: New page: Lighting Build
+[2018.11.14-02.01.31:570][443]LogAIModule: Creating AISystem for world Untitled
+[2018.11.14-02.01.31:636][443]LoadErrors: New page: New Map
+[2018.11.14-02.01.40:259][830]LogSlate: Window 'Save Level As' being destroyed
+[2018.11.14-02.01.40:437][830]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Saved/TravelMap1279198A4EAED37DE10230AEDA052C42.tmp' to '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/Maps/TravelMap.umap'
+[2018.11.14-02.01.40:469][830]LogFileHelpers: Saving map 'TravelMap' took 0.205
+[2018.11.14-02.01.40:471][830]Cmd: MAP LOAD FILE="../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/Maps/TravelMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.14-02.01.40:482][830]LightingResults: New page: Lighting Build
+[2018.11.14-02.01.40:483][830]LoadErrors: New page: Loading map: TravelMap.umap
+[2018.11.14-02.01.40:484][830]MapCheck: New page: Map Check
+[2018.11.14-02.01.40:484][830]LightingResults: New page: Lighting Build
+[2018.11.14-02.01.40:514][830]LogAIModule: Creating AISystem for world TravelMap
+[2018.11.14-02.01.40:581][830]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.14-02.01.40:625][830]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.14-02.01.40:752][830]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 126.923ms to complete.
+[2018.11.14-02.01.40:752][830]LogFileHelpers: Loading map 'TravelMap' took 0.283
+[2018.11.14-02.01.46:764][546]LogAIModule: Creating AISystem for world Lobby
+[2018.11.14-02.01.46:768][546]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Lobby.Lobby
+[2018.11.14-02.01.46:793][546]Cmd: MAP LOAD FILE="../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/Maps/Lobby.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.14-02.01.46:794][546]LightingResults: New page: Lighting Build
+[2018.11.14-02.01.46:794][546]LoadErrors: New page: Loading map: Lobby.umap
+[2018.11.14-02.01.46:795][546]MapCheck: New page: Map Check
+[2018.11.14-02.01.46:795][546]LightingResults: New page: Lighting Build
+[2018.11.14-02.01.46:886][546]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.14-02.01.46:927][546]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.14-02.01.47:053][546]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 125.228ms to complete.
+[2018.11.14-02.01.47:054][546]LogFileHelpers: Loading map 'Lobby' took 0.262
+[2018.11.14-02.01.52:011][134]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (frozen_Room)
+[2018.11.14-02.01.57:909][799]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.14-02.01.58:068][816]LogAIModule: Creating AISystem for world TravelMap
+[2018.11.14-02.01.58:070][816]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/TravelMap.TravelMap
+[2018.11.14-02.01.58:094][816]Cmd: MAP LOAD FILE="../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/Maps/TravelMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.14-02.01.58:094][816]LightingResults: New page: Lighting Build
+[2018.11.14-02.01.58:095][816]LoadErrors: New page: Loading map: TravelMap.umap
+[2018.11.14-02.01.58:096][816]MapCheck: New page: Map Check
+[2018.11.14-02.01.58:096][816]LightingResults: New page: Lighting Build
+[2018.11.14-02.01.58:183][816]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.14-02.01.58:221][816]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.14-02.01.58:347][816]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 125.987ms to complete.
+[2018.11.14-02.01.58:349][816]LogFileHelpers: Loading map 'TravelMap' took 0.256
+[2018.11.14-02.02.05:476][163]LogSlate: Window 'Save Level As' being destroyed
+[2018.11.14-02.02.05:623][163]LogAIModule: Creating AISystem for world MainMenu
+[2018.11.14-02.02.05:626][163]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMenu" FILE="../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/Maps/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.14-02.02.05:659][163]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Saved/MainMenu1D1AA203416A0B2011D78FBC3E2949AE.tmp' to '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/Maps/MainMenu.umap'
+[2018.11.14-02.02.05:667][163]LogFileHelpers: Saving map 'MainMenu' took 0.186
+[2018.11.14-02.02.05:668][163]Cmd: MAP LOAD FILE="../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.14-02.02.05:680][163]LightingResults: New page: Lighting Build
+[2018.11.14-02.02.05:680][163]LoadErrors: New page: Loading map: MainMenu.umap
+[2018.11.14-02.02.05:681][163]MapCheck: New page: Map Check
+[2018.11.14-02.02.05:681][163]LightingResults: New page: Lighting Build
+[2018.11.14-02.02.05:774][163]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.14-02.02.05:820][163]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.14-02.02.05:946][163]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 125.628ms to complete.
+[2018.11.14-02.02.05:946][163]LogFileHelpers: Loading map 'MainMenu' took 0.279
+[2018.11.14-02.03.24:721][781]LogSlate: Window 'Save Content' being destroyed
+[2018.11.14-02.03.24:741][781]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/AllLevels/ChatText" FILE="../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/UI/AllLevels/ChatText.uasset" SILENT=true
+[2018.11.14-02.03.24:755][781]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Saved/ChatTextB2945F3B48212DF2678429A842B11314.tmp' to '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/UI/AllLevels/ChatText.uasset'
+[2018.11.14-02.03.24:762][781]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/AllLevels/ChatWindow" FILE="../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/UI/AllLevels/ChatWindow.uasset" SILENT=true
+[2018.11.14-02.03.24:774][781]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Saved/ChatWindowEF37D1224BDF1AF036310194AC65FD14.tmp' to '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/UI/AllLevels/ChatWindow.uasset'
+[2018.11.14-02.03.24:781][781]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/AllLevels/GameplayChat" FILE="../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/UI/AllLevels/GameplayChat.uasset" SILENT=true
+[2018.11.14-02.03.24:803][781]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Saved/GameplayChat960217264A4A6E02FBD6029B27BCB082.tmp' to '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/UI/AllLevels/GameplayChat.uasset'
+[2018.11.14-02.03.24:810][781]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/AllLevels/LoadingScreen" FILE="../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/UI/AllLevels/LoadingScreen.uasset" SILENT=true
+[2018.11.14-02.03.24:822][781]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Saved/LoadingScreen53F78A824E215825ECC8FD969A4CC61E.tmp' to '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/UI/AllLevels/LoadingScreen.uasset'
+[2018.11.14-02.04.24:535][688]LogSlate: Window 'Save Content' being destroyed
+[2018.11.14-02.04.24:554][688]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/CharacterSelect" FILE="../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/UI/Lobby/CharacterSelect.uasset" SILENT=true
+[2018.11.14-02.04.24:568][688]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Saved/CharacterSelect04B73AC24A42D313574E77A284CFD424.tmp' to '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/UI/Lobby/CharacterSelect.uasset'
+[2018.11.14-02.04.24:574][688]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/ConnectedPlayer" FILE="../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/UI/Lobby/ConnectedPlayer.uasset" SILENT=true
+[2018.11.14-02.04.24:653][688]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Saved/ConnectedPlayer9C97E30A4C53517AD38BAC9EB2889202.tmp' to '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/UI/Lobby/ConnectedPlayer.uasset'
+[2018.11.14-02.04.24:660][688]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/GameSettings" FILE="../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/UI/Lobby/GameSettings.uasset" SILENT=true
+[2018.11.14-02.04.24:687][688]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Saved/GameSettingsB4AD1FF34DE6EFB4F412B190281C62CA.tmp' to '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/UI/Lobby/GameSettings.uasset'
+[2018.11.14-02.04.24:695][688]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2018.11.14-02.04.24:707][688]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Saved/LobbyMenuF23AB6C54527727937768B97EAF8CCEC.tmp' to '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/UI/Lobby/LobbyMenu.uasset'
+[2018.11.14-02.04.24:714][688]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/PlayerButton" FILE="../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/UI/Lobby/PlayerButton.uasset" SILENT=true
+[2018.11.14-02.04.24:726][688]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Saved/PlayerButtonD281D3174B3F5BC5656F8590FB9EE9AF.tmp' to '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/UI/Lobby/PlayerButton.uasset'
+[2018.11.14-02.05.21:629][286]LogSlate: Window 'Save Content' being destroyed
+[2018.11.14-02.05.21:650][286]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/ErrorDialog" FILE="../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/UI/MainMenu/ErrorDialog.uasset" SILENT=true
+[2018.11.14-02.05.21:664][286]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Saved/ErrorDialog2006D27648F37B1F63F8F68E1269F3EE.tmp' to '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/UI/MainMenu/ErrorDialog.uasset'
+[2018.11.14-02.05.21:670][286]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/HostMenu" FILE="../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/UI/MainMenu/HostMenu.uasset" SILENT=true
+[2018.11.14-02.05.21:683][286]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Saved/HostMenuBF1B349C410F40C09738799C6025EEF7.tmp' to '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/UI/MainMenu/HostMenu.uasset'
+[2018.11.14-02.05.21:689][286]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/MainMenu" FILE="../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/UI/MainMenu/MainMenu.uasset" SILENT=true
+[2018.11.14-02.05.21:715][286]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Saved/MainMenu79E9665542B3841655CEAD92E4DFFF6B.tmp' to '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/UI/MainMenu/MainMenu.uasset'
+[2018.11.14-02.05.21:721][286]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/OptionsMenu" FILE="../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/UI/MainMenu/OptionsMenu.uasset" SILENT=true
+[2018.11.14-02.05.21:734][286]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Saved/OptionsMenuC43E737B49878C7DB4367B941E6B895A.tmp' to '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/UI/MainMenu/OptionsMenu.uasset'
+[2018.11.14-02.05.21:741][286]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/ServerMenu" FILE="../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/UI/MainMenu/ServerMenu.uasset" SILENT=true
+[2018.11.14-02.05.21:753][286]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Saved/ServerMenu21A5C2CE45FC9FC833FEFC8848DAB869.tmp' to '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/UI/MainMenu/ServerMenu.uasset'
+[2018.11.14-02.05.40:628][271]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.11.14-02.05.40:743][272]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.NetworkTest
+[2018.11.14-02.05.40:743][272]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.11.14-02.05.40:743][272]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.20
+[2018.11.14-02.05.40:743][272]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.11.14-02.05.40:762][274]LogTemp: BranchPath = MAGICVR03/C/Program Files/Epic Games/UE_4.20/Engine/Binaries --- GameBranchPath = MAGICVR03/C/Program Files/Epic Games/UE_4.20/Engine/Binaries
+[2018.11.14-02.05.40:834][280]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\MagicUser\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.11.14-02.06.52:102][601]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.11.14-02.07.01:147][652]LogSlate: Window 'Project Settings' being destroyed
+[2018.11.14-02.07.01:149][652]LogSlate: Window 'Project Settings' being destroyed
+[2018.11.14-02.07.42:792][618]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton
+[2018.11.14-02.07.42:883][618]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.11.14-02.07.43:285][618]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.11.14-02.07.43:295][618]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2018.11.14-02.07.43:497][618]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.11.14-02.07.43:975][618]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2018.11.14-02.07.44:028][618]LogRenderer: Reallocating scene render targets to support 1156x888 Format 10 NumSamples 1 (Frame:1).
+[2018.11.14-02.08.12:043][326]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Saved/UE4_Mannequin_Skeleton61C092CF48F42B6A96FB3682B2341CD5.tmp' to '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2018.11.14-02.08.15:656][678]LogSlate: Window 'UE4_Mannequin_Skeleton' being destroyed
+[2018.11.14-02.08.15:659][678]LogSlate: Window 'UE4_Mannequin_Skeleton' being destroyed
+[2018.11.14-02.08.21:582][361]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton.SK_Mannequin_Skeleton
+[2018.11.14-02.08.21:610][361]LogSkeletalMesh: Building Skeletal Mesh SK_CharM_Warrior...
+[2018.11.14-02.08.21:614][361]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_CharM_Warrior.SK_CharM_Warrior
+[2018.11.14-02.08.23:534][361]LogTexture: Display: Building textures: T_CharM_WarriorB_Mask (AutoDXT, 2048X2048)
+[2018.11.14-02.08.23:534][361]LogTexture: Display: Building textures: T_CharM_Warrior_N (BC5, 2048X2048)
+[2018.11.14-02.08.23:534][361]LogTexture: Display: Building textures: T_CharM_Warrior_JewelMask (AutoDXT, 2048X2048)
+[2018.11.14-02.08.23:534][361]LogTexture: Display: Building textures: T_CharM_WarriorB_D (DXT1, 2048X2048)
+[2018.11.14-02.08.23:534][361]LogMaterial: Display: Missing cached shader map for material M_Char_Warrior_B, compiling. 
+[2018.11.14-02.08.23:607][361]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.11.14-02.08.23:607][361]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.11.14-02.08.23:607][361]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.11.14-02.08.23:607][361]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.11.14-02.08.23:610][361]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.11.14-02.08.26:667][486]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.14-02.08.27:226][512]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.14-02.08.36:057][689]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Saved/SK_Mannequin_SkeletonD1B2C0E04610017451AC87858B774B06.tmp' to '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton.uasset'
+[2018.11.14-02.08.38:273][898]LogSlate: Window 'SK_Mannequin_Skeleton' being destroyed
+[2018.11.14-02.08.38:276][898]LogSlate: Window 'SK_Mannequin_Skeleton' being destroyed
+[2018.11.14-02.08.50:360][313]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2018.11.14-02.08.59:800][417]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPerson_Jump.ThirdPerson_Jump
+[2018.11.14-02.08.59:808][417]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.ThirdPerson_Jump) using current/default (AnimCompress_RemoveLinearKeys_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.11.14-02.08.59:835][417]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPerson_Jump.ThirdPerson_Jump
+[2018.11.14-02.08.59:836][417]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_0) using current/default (AnimCompress_RemoveLinearKeys_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.11.14-02.08.59:849][417]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPerson_Jump.ThirdPerson_Jump
+[2018.11.14-02.08.59:850][417]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_1) using current/default (AnimCompress_RemoveLinearKeys_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.11.14-02.08.59:896][417]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonJump_Loop.ThirdPersonJump_Loop
+[2018.11.14-02.08.59:897][417]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.ThirdPersonJump_Loop) using current/default (AnimCompress_RemoveLinearKeys_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.11.14-02.08.59:915][417]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonJump_Loop.ThirdPersonJump_Loop
+[2018.11.14-02.08.59:916][417]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_2) using current/default (AnimCompress_RemoveLinearKeys_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.11.14-02.08.59:974][417]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonJump_Loop.ThirdPersonJump_Loop
+[2018.11.14-02.08.59:975][417]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_3) using current/default (AnimCompress_RemoveLinearKeys_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.11.14-02.09.00:041][417]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonJump_Start.ThirdPersonJump_Start
+[2018.11.14-02.09.00:042][417]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.ThirdPersonJump_Start) using current/default (AnimCompress_RemoveLinearKeys_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.11.14-02.09.00:056][417]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonJump_Start.ThirdPersonJump_Start
+[2018.11.14-02.09.00:057][417]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_4) using current/default (AnimCompress_RemoveLinearKeys_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.11.14-02.09.00:077][417]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonJump_Start.ThirdPersonJump_Start
+[2018.11.14-02.09.00:077][417]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_5) using current/default (AnimCompress_RemoveLinearKeys_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.11.14-02.09.00:135][417]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonIdle.ThirdPersonIdle
+[2018.11.14-02.09.00:136][417]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.ThirdPersonIdle) using current/default (AnimCompress_RemoveLinearKeys_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.11.14-02.09.00:255][417]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonWalk.ThirdPersonWalk
+[2018.11.14-02.09.00:256][417]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.ThirdPersonWalk) using current/default (AnimCompress_RemoveLinearKeys_5) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.11.14-02.09.00:292][417]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonRun.ThirdPersonRun
+[2018.11.14-02.09.00:293][417]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.ThirdPersonRun) using current/default (AnimCompress_RemoveLinearKeys_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.11.14-02.09.00:311][417]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonIdle.ThirdPersonIdle
+[2018.11.14-02.09.00:312][417]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_6) using current/default (AnimCompress_RemoveLinearKeys_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.11.14-02.09.00:401][417]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonWalk.ThirdPersonWalk
+[2018.11.14-02.09.00:402][417]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_7) using current/default (AnimCompress_RemoveLinearKeys_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.11.14-02.09.00:462][417]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonRun.ThirdPersonRun
+[2018.11.14-02.09.00:463][417]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_8) using current/default (AnimCompress_RemoveLinearKeys_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.11.14-02.09.00:538][417]LogSlate: Window 'Select Skeleton' being destroyed
+[2018.11.14-02.09.00:645][418]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SK_Mannequin_Skeleton, removing AnimBP from actor.
+[2018.11.14-02.09.55:716][955]LogMetaData: Removing '/Game/InfinityBladeWarriors/Animation/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C' ref from Metadata '/Game/ThirdPerson_AnimBP.PackageMetaData'
+[2018.11.14-02.09.55:716][955]LogMetaData: Removing '/Game/InfinityBladeWarriors/Animation/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:BlueprintUpdateAnimation' ref from Metadata '/Game/ThirdPerson_AnimBP.PackageMetaData'
+[2018.11.14-02.09.55:717][955]LogMetaData: Removing '/Game/InfinityBladeWarriors/Animation/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:IsInAir?' ref from Metadata '/Game/ThirdPerson_AnimBP.PackageMetaData'
+[2018.11.14-02.09.55:717][955]LogMetaData: Removing '/Game/InfinityBladeWarriors/Animation/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:Speed' ref from Metadata '/Game/ThirdPerson_AnimBP.PackageMetaData'
+[2018.11.14-02.09.55:717][955]LogMetaData: Removing '/Game/InfinityBladeWarriors/Animation/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:IsInAir?' ref from Metadata '/Game/ThirdPerson_AnimBP.PackageMetaData'
+[2018.11.14-02.09.55:717][955]LogMetaData: Removing '/Game/InfinityBladeWarriors/Animation/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:Speed' ref from Metadata '/Game/ThirdPerson_AnimBP.PackageMetaData'
+[2018.11.14-02.09.55:718][955]LogMetaData: Removing '/Game/InfinityBladeWarriors/Animation/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:BlueprintUpdateAnimation' ref from Metadata '/Game/ThirdPerson_AnimBP.PackageMetaData'
+[2018.11.14-02.09.55:718][955]LogMetaData: Removing '/Game/InfinityBladeWarriors/Animation/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C' ref from Metadata '/Game/ThirdPerson_AnimBP.PackageMetaData'
+[2018.11.14-02.09.55:862][955]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Saved/ThirdPerson_AnimBP83BCE52A4C27626688C44988060BBBB9.tmp' to '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/InfinityBladeWarriors/Animation/ThirdPerson_AnimBP.uasset'
+[2018.11.14-02.09.55:901][955]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Saved/ThirdPerson_IdleRun_2D583369E64E3FEBC1776CEBAE65DE518D.tmp' to '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/InfinityBladeWarriors/Animation/ThirdPerson_IdleRun_2D.uasset'
+[2018.11.14-02.09.55:949][955]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Saved/ThirdPerson_JumpD1F4C22A4B5F3EA9CA5A0090D869CA40.tmp' to '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/InfinityBladeWarriors/Animation/ThirdPerson_Jump.uasset'
+[2018.11.14-02.09.55:992][955]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Saved/ThirdPersonIdleCEBF8C954D45971C92A8DC89D4CC285F.tmp' to '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/InfinityBladeWarriors/Animation/ThirdPersonIdle.uasset'
+[2018.11.14-02.09.56:032][955]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Saved/ThirdPersonJump_Loop3BA065F24FC0A571B8DBEFB3FF466461.tmp' to '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/InfinityBladeWarriors/Animation/ThirdPersonJump_Loop.uasset'
+[2018.11.14-02.09.56:069][955]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Saved/ThirdPersonJump_Start9CF68189417AE190484903A276F3727F.tmp' to '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/InfinityBladeWarriors/Animation/ThirdPersonJump_Start.uasset'
+[2018.11.14-02.09.56:107][955]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Saved/ThirdPersonRun2D5C4C6942AD4A8ECFAD639C9CE03D60.tmp' to '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/InfinityBladeWarriors/Animation/ThirdPersonRun.uasset'
+[2018.11.14-02.09.56:149][955]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Saved/ThirdPersonWalkBFA63C3B4983AD7CB75AFEBFDBA38A07.tmp' to '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/InfinityBladeWarriors/Animation/ThirdPersonWalk.uasset'
+[2018.11.14-02.10.17:205][992]LogMetaData: Removing '/Game/InfinityBladeWarriors/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C' ref from Metadata '/Game/InfinityBladeWarriors/Animation/ThirdPerson_AnimBP.PackageMetaData'
+[2018.11.14-02.10.17:206][992]LogMetaData: Removing '/Game/InfinityBladeWarriors/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:Speed' ref from Metadata '/Game/InfinityBladeWarriors/Animation/ThirdPerson_AnimBP.PackageMetaData'
+[2018.11.14-02.10.17:206][992]LogMetaData: Removing '/Game/InfinityBladeWarriors/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:IsInAir?' ref from Metadata '/Game/InfinityBladeWarriors/Animation/ThirdPerson_AnimBP.PackageMetaData'
+[2018.11.14-02.10.17:206][992]LogMetaData: Removing '/Game/InfinityBladeWarriors/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:BlueprintUpdateAnimation' ref from Metadata '/Game/InfinityBladeWarriors/Animation/ThirdPerson_AnimBP.PackageMetaData'
+[2018.11.14-02.10.17:206][992]LogMetaData: Removing '/Game/InfinityBladeWarriors/Animations/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C' ref from Metadata '/Game/InfinityBladeWarriors/Animation/ThirdPerson_AnimBP.PackageMetaData'
+[2018.11.14-02.10.17:207][992]LogMetaData: Removing '/Game/InfinityBladeWarriors/Animations/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:BlueprintUpdateAnimation' ref from Metadata '/Game/InfinityBladeWarriors/Animation/ThirdPerson_AnimBP.PackageMetaData'
+[2018.11.14-02.10.17:207][992]LogMetaData: Removing '/Game/InfinityBladeWarriors/Animations/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:Speed' ref from Metadata '/Game/InfinityBladeWarriors/Animation/ThirdPerson_AnimBP.PackageMetaData'
+[2018.11.14-02.10.17:207][992]LogMetaData: Removing '/Game/InfinityBladeWarriors/Animations/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:IsInAir?' ref from Metadata '/Game/InfinityBladeWarriors/Animation/ThirdPerson_AnimBP.PackageMetaData'
+[2018.11.14-02.10.17:343][992]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Saved/ThirdPerson_AnimBPCCC1EBC24C209C878AC9E48DC302D6C2.tmp' to '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/InfinityBladeWarriors/Animations/ThirdPerson_AnimBP.uasset'
+[2018.11.14-02.10.17:381][992]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Saved/ThirdPersonRun9AF565EF4453ABA3EF94F1AD4148B07C.tmp' to '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/InfinityBladeWarriors/Animations/ThirdPersonRun.uasset'
+[2018.11.14-02.10.17:436][992]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Saved/ThirdPersonWalkB5479C704D3D745FD77891A7A580FAA4.tmp' to '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/InfinityBladeWarriors/Animations/ThirdPersonWalk.uasset'
+[2018.11.14-02.10.17:478][992]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Saved/ThirdPersonIdleBC9D22EE46473D916E5563AC9D71FD55.tmp' to '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/InfinityBladeWarriors/Animations/ThirdPersonIdle.uasset'
+[2018.11.14-02.10.17:514][992]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Saved/ThirdPerson_IdleRun_2D48794C2144D6B8FC086321A08F46B21C.tmp' to '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/InfinityBladeWarriors/Animations/ThirdPerson_IdleRun_2D.uasset'
+[2018.11.14-02.10.17:552][992]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Saved/ThirdPersonJump_Start94E1CB5E468BCC289003AEAB959B706B.tmp' to '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/InfinityBladeWarriors/Animations/ThirdPersonJump_Start.uasset'
+[2018.11.14-02.10.17:592][992]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Saved/ThirdPersonJump_Loop0BD5A65D4D14965928EB32B4C241FC1E.tmp' to '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/InfinityBladeWarriors/Animations/ThirdPersonJump_Loop.uasset'
+[2018.11.14-02.10.17:630][992]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Saved/ThirdPerson_Jump4C5D51B847BE747E42A9798E196D40CD.tmp' to '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/InfinityBladeWarriors/Animations/ThirdPerson_Jump.uasset'
+[2018.11.14-02.10.36:533][121]LogMetaData: Removing '/Game/InfinityBladeWarriors/Animations/0_baseAnimBP.0_baseAnimBP_C' ref from Metadata '/Game/InfinityBladeWarriors/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.11.14-02.10.36:533][121]LogMetaData: Removing '/Game/InfinityBladeWarriors/Animations/0_baseAnimBP.SKEL_0_baseAnimBP_C' ref from Metadata '/Game/InfinityBladeWarriors/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.11.14-02.10.36:637][121]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Saved/0_baseAnimBP49BE67F74C1E929E8CAFFBA0B7F34A76.tmp' to '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/InfinityBladeWarriors/Animations/0_baseAnimBP.uasset'
+[2018.11.14-02.11.26:298][187]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Characters/0_base.0_base
+[2018.11.14-02.11.35:476][958]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.11.14-02.11.45:013][839]BlueprintLog: New page: Compile 0_base
+[2018.11.14-02.11.45:864][899]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/0_base" FILE="../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/Blueprints/Characters/0_base.uasset" SILENT=true
+[2018.11.14-02.11.45:921][899]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Saved/0_base858D6F8B437F63929652A99DBF46F0AF.tmp' to '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/Blueprints/Characters/0_base.uasset'
+[2018.11.14-02.11.47:149][ 42]LogSlate: Window '0_base' being destroyed
+[2018.11.14-02.11.47:152][ 42]LogSlate: Window '0_base' being destroyed
+[2018.11.14-02.11.54:482][909]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Characters/Basbarous.Basbarous
+[2018.11.14-02.12.10:706][267]LogTexture: Display: Building textures: T_CharM_Barbarous_MetalMask (DXT1, 2048X2048)
+[2018.11.14-02.12.10:706][267]LogTexture: Display: Building textures: T_CharM_Barbarous_N (BC5, 2048X2048)
+[2018.11.14-02.12.10:706][267]LogTexture: Display: Building textures: T_CharM_Barbarous_D (DXT1, 2048X2048)
+[2018.11.14-02.12.10:707][267]LogSkeletalMesh: Building Skeletal Mesh SK_CharM_Barbarous...
+[2018.11.14-02.12.10:711][267]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_CharM_Barbarous.SK_CharM_Barbarous
+[2018.11.14-02.12.10:714][267]LogMaterial: Display: Missing cached shader map for material M_Char_Barbrous, compiling. 
+[2018.11.14-02.12.10:758][267]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.11.14-02.12.10:758][267]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.11.14-02.12.10:758][267]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.11.14-02.12.10:758][267]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.11.14-02.12.14:049][463]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.14-02.12.14:722][504]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.14-02.12.16:947][649]BlueprintLog: New page: Compile Basbarous
+[2018.11.14-02.12.20:622][ 13]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Saved/Basbarous18254E264CCD3C009B250EA60539D52F.tmp' to '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/Blueprints/Characters/Basbarous.uasset'
+[2018.11.14-02.12.22:153][192]LogSlate: Window 'Basbarous' being destroyed
+[2018.11.14-02.12.22:155][192]LogSlate: Window 'Basbarous' being destroyed
+[2018.11.14-02.12.27:189][784]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Characters/Forge.Forge
+[2018.11.14-02.12.29:760][  4]LogSlate: Window 'Forge*' being destroyed
+[2018.11.14-02.12.29:763][  4]LogSlate: Window 'Forge*' being destroyed
+[2018.11.14-02.12.33:672][461]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Characters/Forge.Forge
+[2018.11.14-02.12.41:840][ 46]LogTexture: Display: Building textures: CharM_Forge_MetalMask (AutoDXT, 2048X2048)
+[2018.11.14-02.12.41:840][ 46]LogTexture: Display: Building textures: CharM_Forge_D (DXT1, 2048X2048)
+[2018.11.14-02.12.41:841][ 46]LogTexture: Display: Building textures: CharM_Forge_N (BC5, 2048X2048)
+[2018.11.14-02.12.41:841][ 46]LogSkeletalMesh: Building Skeletal Mesh SK_CharM_Forge...
+[2018.11.14-02.12.41:850][ 46]LogSkeletalMesh: Built Skeletal Mesh [0.10s] /Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_CharM_Forge.SK_CharM_Forge
+[2018.11.14-02.12.41:852][ 46]LogMaterial: Display: Missing cached shader map for material M_Char_Forge, compiling. 
+[2018.11.14-02.12.41:893][ 46]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.11.14-02.12.41:893][ 46]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.11.14-02.12.41:893][ 46]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.11.14-02.12.41:893][ 46]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.11.14-02.12.43:072][130]BlueprintLog: New page: Compile Forge
+[2018.11.14-02.12.44:411][177]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/Forge" FILE="../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/Blueprints/Characters/Forge.uasset" SILENT=true
+[2018.11.14-02.12.44:463][177]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Saved/ForgeA551B46E48866F9E9B74CDA74B97098B.tmp' to '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/Blueprints/Characters/Forge.uasset'
+[2018.11.14-02.12.45:141][219]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.14-02.12.45:740][256]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.14-02.12.46:077][277]LogSlate: Window 'Forge' being destroyed
+[2018.11.14-02.12.46:080][277]LogSlate: Window 'Forge' being destroyed
+[2018.11.14-02.12.48:884][534]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Characters/Frosty.Frosty
+[2018.11.14-02.12.56:989][200]LogTexture: Display: Building textures: T_Char_M_FrostGiant_MaterialMask (AutoDXT, 2048X2048)
+[2018.11.14-02.12.56:989][200]LogTexture: Display: Building textures: T_Char_M_FrostGiant_N (BC5, 2048X2048)
+[2018.11.14-02.12.56:990][200]LogTexture: Display: Building textures: T_Char_M_FrostGiant_D (DXT1, 2048X2048)
+[2018.11.14-02.12.56:990][200]LogTexture: Display: Building textures: T_Char_M_FrostGiant_Masks (AutoDXT, 2048X2048)
+[2018.11.14-02.12.56:990][200]LogSkeletalMesh: Building Skeletal Mesh SK_CharM_FrostGiant...
+[2018.11.14-02.12.57:000][200]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_CharM_FrostGiant.SK_CharM_FrostGiant
+[2018.11.14-02.12.58:788][200]LogMaterial: Display: Missing cached shader map for material M_Char_FrostGiant, compiling. 
+[2018.11.14-02.12.58:833][200]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.11.14-02.12.58:833][200]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.11.14-02.12.58:834][200]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.11.14-02.12.58:834][200]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.11.14-02.12.59:801][258]BlueprintLog: New page: Compile Frosty
+[2018.11.14-02.13.00:601][276]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/Frosty" FILE="../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/Blueprints/Characters/Frosty.uasset" SILENT=true
+[2018.11.14-02.13.00:650][276]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Saved/FrostyA2DF45504014CAF8628C34987E27776A.tmp' to '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/Blueprints/Characters/Frosty.uasset'
+[2018.11.14-02.13.01:400][322]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.14-02.13.02:064][365]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.14-02.13.02:242][377]LogSlate: Window 'Frosty' being destroyed
+[2018.11.14-02.13.02:247][377]LogSlate: Window 'Frosty' being destroyed
+[2018.11.14-02.13.05:277][661]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Characters/Natural.Natural
+[2018.11.14-02.13.14:990][314]LogTexture: Display: Building textures: T_CharM_Natural_Mask (AutoDXT, 2048X2048)
+[2018.11.14-02.13.14:990][314]LogTexture: Display: Building textures: T_CharM_Natural_N (AutoDXT, 2048X2048)
+[2018.11.14-02.13.14:991][314]LogTexture: Display: Building textures: T_CharM_Natural_D (DXT1, 2048X2048)
+[2018.11.14-02.13.14:991][314]LogMaterial: Display: Missing cached shader map for material M_Char_Natural, compiling. 
+[2018.11.14-02.13.15:029][314]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.11.14-02.13.15:029][314]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.11.14-02.13.15:029][314]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.11.14-02.13.15:029][314]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.11.14-02.13.15:030][314]LogSkeletalMesh: Building Skeletal Mesh SK_CharM_Natural...
+[2018.11.14-02.13.15:033][314]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_CharM_Natural.SK_CharM_Natural
+[2018.11.14-02.13.15:706][346]BlueprintLog: New page: Compile Natural
+[2018.11.14-02.13.16:638][368]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/Natural" FILE="../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/Blueprints/Characters/Natural.uasset" SILENT=true
+[2018.11.14-02.13.16:696][368]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Saved/Natural38B9A2D94BA0CDFF07C16FAB0CD30590.tmp' to '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/Blueprints/Characters/Natural.uasset'
+[2018.11.14-02.13.17:490][418]LogSlate: Window 'Natural' being destroyed
+[2018.11.14-02.13.17:494][418]LogSlate: Window 'Natural' being destroyed
+[2018.11.14-02.13.17:578][418]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.14-02.13.18:274][486]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.14-02.13.18:826][533]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Characters/Pit.Pit
+[2018.11.14-02.13.33:599][635]LogTexture: Display: Building textures: T_CharM_Pit_Mask (AutoDXT, 2048X2048)
+[2018.11.14-02.13.33:599][635]LogTexture: Display: Building textures: T_CharM_Pit_N (BC5, 2048X2048)
+[2018.11.14-02.13.33:599][635]LogTexture: Display: Building textures: T_CharM_Pit_D (DXT1, 2048X2048)
+[2018.11.14-02.13.33:599][635]LogMaterial: Display: Missing cached shader map for material M_Char_Pit, compiling. 
+[2018.11.14-02.13.33:626][635]LogSkeletalMesh: Building Skeletal Mesh SK_CharM_Pit...
+[2018.11.14-02.13.33:629][635]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_CharM_Pit.SK_CharM_Pit
+[2018.11.14-02.13.33:669][635]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.11.14-02.13.33:669][635]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.11.14-02.13.33:669][635]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.11.14-02.13.33:669][635]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.11.14-02.13.34:647][685]BlueprintLog: New page: Compile Pit
+[2018.11.14-02.13.35:683][727]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/Pit" FILE="../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/Blueprints/Characters/Pit.uasset" SILENT=true
+[2018.11.14-02.13.35:731][727]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Saved/Pit8877EC664BDA98E29C6690ADAC3704C6.tmp' to '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/Blueprints/Characters/Pit.uasset'
+[2018.11.14-02.13.36:235][759]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.14-02.13.36:877][806]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.14-02.13.37:720][869]LogSlate: Window 'Pit' being destroyed
+[2018.11.14-02.13.37:725][869]LogSlate: Window 'Pit' being destroyed
+[2018.11.14-02.13.40:206][117]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Characters/Robo.Robo
+[2018.11.14-02.13.51:778][994]LogTexture: Display: Building textures: T_CharM_Robo_Mask (AutoDXT, 2048X2048)
+[2018.11.14-02.13.51:778][994]LogTexture: Display: Building textures: T_CharM_Robo_N (BC5, 2048X2048)
+[2018.11.14-02.13.51:778][994]LogTexture: Display: Building textures: T_CharM_Robo_D (AutoDXT, 2048X2048)
+[2018.11.14-02.13.51:779][994]LogMaterial: Display: Missing cached shader map for material M_Char_Robo, compiling. 
+[2018.11.14-02.13.51:837][994]LogSkeletalMesh: Building Skeletal Mesh SK_CharM_Robo...
+[2018.11.14-02.13.51:842][994]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_CharM_Robo.SK_CharM_Robo
+[2018.11.14-02.13.51:870][994]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.11.14-02.13.51:870][994]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.11.14-02.13.51:870][994]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.11.14-02.13.51:870][994]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.11.14-02.13.53:320][ 73]BlueprintLog: New page: Compile Robo
+[2018.11.14-02.13.54:182][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/Robo" FILE="../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/Blueprints/Characters/Robo.uasset" SILENT=true
+[2018.11.14-02.13.54:239][103]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Saved/Robo160930FC48642D4750269A8C035D32C0.tmp' to '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/Blueprints/Characters/Robo.uasset'
+[2018.11.14-02.13.54:492][119]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.14-02.13.54:956][154]LogSlate: Window 'Robo' being destroyed
+[2018.11.14-02.13.54:961][154]LogSlate: Window 'Robo' being destroyed
+[2018.11.14-02.13.55:144][163]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.14-02.13.57:912][419]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Characters/tusk.Tusk
+[2018.11.14-02.14.17:267][442]LogSkeletalMesh: Building Skeletal Mesh SK_CharM_Tusk...
+[2018.11.14-02.14.17:271][442]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_CharM_Tusk.SK_CharM_Tusk
+[2018.11.14-02.14.19:590][442]LogTexture: Display: Building textures: T_CharM_Tusk_E (DXT1, 1024X1024)
+[2018.11.14-02.14.19:590][442]LogTexture: Display: Building textures: T_CharM_Tusk_Mask (AutoDXT, 2048X2048)
+[2018.11.14-02.14.19:591][442]LogTexture: Display: Building textures: T_CharM_Tusk_N (BC5, 1024X1024)
+[2018.11.14-02.14.19:591][442]LogTexture: Display: Building textures: T_CharM_Tusk_D (DXT1, 2048X2048)
+[2018.11.14-02.14.19:591][442]LogMaterial: Display: Missing cached shader map for material M_Char_Tusk, compiling. 
+[2018.11.14-02.14.19:648][442]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.11.14-02.14.19:648][442]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.11.14-02.14.19:648][442]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.11.14-02.14.19:648][442]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.11.14-02.14.22:896][642]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.14-02.14.23:544][681]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.14-02.14.26:564][885]BlueprintLog: New page: Compile Tusk
+[2018.11.14-02.14.27:390][939]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/tusk" FILE="../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/Blueprints/Characters/tusk.uasset" SILENT=true
+[2018.11.14-02.14.27:427][939]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Saved/tusk5D8764864E9EFCA48AE01E80F2554BD8.tmp' to '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/Blueprints/Characters/tusk.uasset'
+[2018.11.14-02.14.29:330][160]LogSlate: Window 'Tusk' being destroyed
+[2018.11.14-02.14.29:333][160]LogSlate: Window 'Tusk' being destroyed
+[2018.11.14-02.14.30:426][280]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Characters/Warrior.Warrior
+[2018.11.14-02.14.32:440][439]LogSlate: Window 'Warrior*' being destroyed
+[2018.11.14-02.14.32:443][439]LogSlate: Window 'Warrior*' being destroyed
+[2018.11.14-02.14.33:883][602]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Characters/Warrior.Warrior
+[2018.11.14-02.14.44:131][574]BlueprintLog: New page: Compile Warrior
+[2018.11.14-02.14.45:096][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/Warrior" FILE="../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/Blueprints/Characters/Warrior.uasset" SILENT=true
+[2018.11.14-02.14.45:177][639]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Saved/Warrior346736E142B0DAEA3F1D82B4A7FF7990.tmp' to '../../../../../../Users/MagicUser/Documents/UE4-Network-Test/Network_Test/Content/Blueprints/Characters/Warrior.uasset'
+[2018.11.14-02.14.46:936][824]LogSlate: Window 'Warrior' being destroyed
+[2018.11.14-02.14.46:939][824]LogSlate: Window 'Warrior' being destroyed
+[2018.11.14-02.14.49:023][ 63]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Characters/Warrior.Warrior
+[2018.11.14-02.14.50:442][167]LogSlate: Window 'Warrior' being destroyed
+[2018.11.14-02.14.50:445][167]LogSlate: Window 'Warrior' being destroyed
